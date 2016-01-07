@@ -1,0 +1,20 @@
+{
+	"name": "union_flow",
+	"description": "联通流量专区充值接口",
+	"version": "0.0.7",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/navyxie/union_flow.git"
+	},
+	"keywords": ["联通","流量","充值"],
+	"homepage": "https://github.com/navyxie/union_flow",
+	"bugs": {
+		"url": "https://github.com/navyxie/union_flow/issues"
+	},
+	"dependencies": {
+		"request":">=2.67.0",
+		"lodash":">=3.10.1",
+		"date-utils":">=1.2.17"
+	}
+}
