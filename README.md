@@ -15,7 +15,7 @@ union_flow.query({
 });
 ```
 
-API:
+## API:
 
 [`recharge`](#recharge) : 流量充值接口
 
@@ -28,6 +28,8 @@ API:
 [`notifyHandler`](#notifyHandler) : 充值结果异步回调处理
 
 [`getStopNotifyData`](#getStopNotifyData) : 获取终止回调的响应内容
+
+--------
 
 <a name="recharge" />
 recharge:流量充值接口
