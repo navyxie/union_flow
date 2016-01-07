@@ -29,6 +29,8 @@ union_flow.query({
 
 [`getStopNotifyData`](#getStopNotifyData) : 获取终止回调的响应内容
 
+--------
+
 <a name="recharge" />
 recharge:流量充值接口
 
