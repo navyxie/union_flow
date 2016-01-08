@@ -1,7 +1,7 @@
 {
 	"name": "union_flow",
 	"description": "联通流量专区充值接口(异步接口)",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
